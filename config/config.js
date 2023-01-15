@@ -33,11 +33,11 @@ export const intro = {
       link: "#contact",
       isPrimary: true,
     },
-    {
-      title: "Resume",
-      link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
-      isPrimary: false,
-    },
+    // {
+    //   title: "Resume",
+    //   link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    //   isPrimary: false,
+    // },
   ],
 };
 
