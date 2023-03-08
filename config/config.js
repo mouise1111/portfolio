@@ -33,22 +33,22 @@ export const intro = {
       link: "#contact",
       isPrimary: true,
     },
-    // {
-    //   title: "Resume",
-    //   link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
-    //   isPrimary: false,
-    // },
+    {
+      title: "Resume",
+      link: "https://drive.google.com/file/d/1s7LjmQsJvAMb6h2wm_ot-upB2PuAmnpH/view?usp=sharing",
+      isPrimary: false,
+    },
   ],
 };
 
 export const about = {
   title: "Who I am",
   description: [
-    "I am a full stack developer with a passion for creating high - quality web applications.",
+    "I am a full stack developer with a passion for creating high-quality web applications.",
     "Currently I am a student at Erasmuhogeschool studying Programming, with a strong background in both frontend and backend development.",
     "My skills include JavaScript, Java, C#, and PHP, as well as experience working with ASP.NET, Laravel, Android mobile development and Spring.",
-    "I am a proactive problem - solver, dedicated to delivering exceptional results for clients.",
-    " I am also a strong communicator and team player, always eager to learn and stay up - to - date with the latest industry trends.",
+    "I am a proactive problem-solver, dedicated to delivering exceptional results for clients.",
+    " I am also a strong communicator and team player, always eager to learn and stay up-to-date with the latest industry trends.",
   ],
 };
 export const work = {
@@ -56,7 +56,7 @@ export const work = {
   cards: [
     {
       title: "Mobile App Development",
-      description: "I create pixel perfect Andriod apps using Java.",
+      description: "I create pixel perfect Android apps using Java.",
       icons: null,
     },
     {
@@ -83,13 +83,13 @@ export const projects = {
       ],
     },
     {
-      title: "Fitish",
+      title: "HadithApp",
       description:
-        "Fitish is a recipe and fitness tracker for those who wan't to stay fit...ish",
+        "This is a Hadith app built with SvelteKit. The app provides users with a collection of Hadiths and allows them bookmark their favorite Hadiths.",
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/mouise1111/Fitish-frontend-js-app",
+          link: "https://github.com/mouise1111/HadithApp",
         },
       ],
     },
@@ -127,11 +127,11 @@ export const contact = {
       link: "mailto:bashir.mouise@protonmail.com",
       isPrimary: true,
     },
-    {
-      title: "Schedule Meeting",
-      link: "",
-      isPrimary: false,
-    },
+    // {
+    //   title: "Schedule Meeting",
+    //   link: "",
+    //   isPrimary: false,
+    // },
   ],
 };
 
@@ -140,7 +140,7 @@ export const SEO = {
   // 50 - 60 char
   title: "Mouise Bashir | Computer Engineer | Web Developer",
   description:
-    "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+    "I create full stack websites. I will graduate from Erasmushogeschool Brussel in 2023 with a degree in Computer Programming.",
   image: profile.src,
 };
 
