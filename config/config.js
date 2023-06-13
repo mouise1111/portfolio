@@ -163,7 +163,7 @@ export const links = {
     },
     {
       title: "My LinkedIn",
-      link: "https://www.linkedin.com/in/mouise-bashir-62a706200/?locale=en_US",
+      link: "https://www.linkedin.com/in/mouise-bashir/?locale=en_US",
     },
   ],
 };
