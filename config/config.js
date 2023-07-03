@@ -44,11 +44,11 @@ export const intro = {
 export const about = {
   title: "Who I am",
   description: [
-    "I am a full stack developer with a passion for creating high-quality web applications.",
-    "Currently I am a student at Erasmuhogeschool studying Programming, with a strong background in both frontend and backend development.",
-    "My skills include JavaScript, Java, C#, and PHP, as well as experience working with ASP.NET, Laravel, Android mobile development and Spring.",
-    "I am a proactive problem-solver, dedicated to delivering exceptional results for clients.",
-    " I am also a strong communicator and team player, always eager to learn and stay up-to-date with the latest industry trends.",
+    "Welcome to my portfolio website! I'm a freelance web developer from Belgium, specializing in creating captivating and functional websites. With expertise in HTML, CSS, and JavaScript, I bring your digital ideas to life.",
+    "I'm passionate about crafting visually appealing designs and seamless user experiences. From small business websites to personal blogs, I tailor each project to meet your specific needs.",
+    "Driven by the latest industry trends, I stay updated with cutting-edge technologies to deliver modern and engaging websites. Collaboration and open communication are at the core of my approach, ensuring your satisfaction throughout the development process.",
+    "Based in Belgium, I'm ready to transform your online presence. Explore my portfolio and let's discuss your next web development project.",
+    "Let's build your digital success together!",
   ],
 };
 export const work = {
