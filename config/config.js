@@ -55,14 +55,9 @@ export const work = {
   title: "What I do",
   cards: [
     {
-      title: "Mobile App Development",
-      description: "I create pixel perfect Android apps using Java.",
-      icons: null,
-    },
-    {
-      title: "Web Development",
+      title: "Responsive Web Development",
       description:
-        "I create responsive full stack websites using ASP.NET and Laravel.",
+        "I create responsive websites using HTML, CSS and Javascript",
       icons: null,
     },
   ],
