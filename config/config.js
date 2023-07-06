@@ -57,7 +57,7 @@ export const work = {
     {
       title: "Responsive Web Development",
       description:
-        "I create responsive websites using HTML, CSS and Javascript",
+        "I create responsive websites using HTML, CSS and Javascript, Sveltekit",
       icons: null,
     },
   ],
@@ -78,13 +78,13 @@ export const projects = {
       ],
     },
     {
-      title: "HadithApp",
+      title: "Nova nursing",
       description:
-        "This is a Hadith app built with SvelteKit. The app provides users with a collection of Hadiths and allows them bookmark their favorite Hadiths.",
+        "This is a website I built for a nursing agency using Sveltekit.",
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/mouise1111/HadithApp",
+          link: "https://nova-nursing.vercel.app/",
         },
       ],
     },
