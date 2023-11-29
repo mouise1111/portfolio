@@ -1,6 +1,6 @@
 import profile from "./profile.jpg";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import {} from "@fortawesome/free-solid-svg-icons";
+import { } from "@fortawesome/free-solid-svg-icons";
 
 export const navigation = {
   name: "Mouise Bashir",
@@ -44,8 +44,8 @@ export const intro = {
 export const about = {
   title: "Who I am",
   description: [
-    "Welcome to my portfolio website! I'm a freelance web developer from Belgium, specializing in creating captivating and functional websites. With expertise in HTML, CSS, and JavaScript, I bring your digital ideas to life.",
-    "I'm passionate about crafting visually appealing designs and seamless user experiences. From small business websites to personal blogs, I tailor each project to meet your specific needs.",
+    "Welcome to my portfolio website! I'm a Applied Computer Science student from Belgium, specializing in Software Engeneering. With expertise in HTML, CSS, and JavaScript, PHP and .C#, I bring your digital ideas to life.",
+    "I'm passionate about crafting visually appealing designs and seamless user experiences.",
     "Driven by the latest industry trends, I stay updated with cutting-edge technologies to deliver modern and engaging websites. Collaboration and open communication are at the core of my approach, ensuring your satisfaction throughout the development process.",
     "Based in Belgium, I'm ready to transform your online presence. Explore my portfolio and let's discuss your next web development project.",
     "Let's build your digital success together!",
@@ -57,7 +57,7 @@ export const work = {
     {
       title: "Responsive Web Development",
       description:
-        "I create responsive websites using HTML, CSS and Javascript, Sveltekit",
+        "I create responsive websites using HTML, CSS, Javascript and Laravel",
       icons: null,
     },
   ],
@@ -66,6 +66,16 @@ export const work = {
 export const projects = {
   title: "Projects",
   cards: [
+    {
+      title: "FabLab",
+      description: "Webshop for students made with Laravel",
+      icons: [
+        {
+          icon: faGithub,
+          link: "https://github.com/mouise1111/laravel_FabLab",
+        },
+      ],
+    },
     {
       title: "Teatastic",
       description:
@@ -85,16 +95,6 @@ export const projects = {
         {
           icon: faGithub,
           link: "https://nova-nursing.vercel.app/",
-        },
-      ],
-    },
-    {
-      title: "FabLab",
-      description: "Webshop for students made with Laravel",
-      icons: [
-        {
-          icon: faGithub,
-          link: "https://github.com/mouise1111/laravel_FabLab",
         },
       ],
     },
