@@ -1,4 +1,3 @@
-import profile from "./profile.jpg";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { } from "@fortawesome/free-solid-svg-icons";
 
@@ -140,7 +139,6 @@ export const SEO = {
 };
 
 export const links = {
-  image: profile.src,
   title: "@mouisebashir",
   description: "Computer Engineer | ASP.NET | web developer",
   cards: [
@@ -157,8 +155,8 @@ export const links = {
       link: "https://github.com/mouise1111/",
     },
     {
-      title: "My LinkedIn",
-      link: "https://www.linkedin.com/in/mouise-bashir/?locale=en_US",
+      title: "EUjobs.co",
+      link: "https://eujobs.co/",
     },
   ],
 };
